@@ -10,7 +10,7 @@ date: 2024-03-18
 
 ## Hi, Soumya here!
 
-I'm currently a third year undergraduate student in mathematics at Indian Statistical Institute, Bangalore. My interests are in Algebraic Topology, Algebraic Geometry and Differential Geometry. 
+I'm currently a third year undergraduate student in mathematics at Indian Statistical Institute, Bangalore. My interests are in Algebraic Topology, Algebraic Geometry and Differential Geometry
 
 The motivation behind this blog was to share my thoughts on mathematics and my experiences. I should thank Bikram for helping me setting up the website, particularly helping me setting up $\LaTeX$ without which this website wouldn't have been fruitful. 
 
